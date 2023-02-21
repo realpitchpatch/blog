@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on pitch patch</title>
+    <link>https://pitchpatch.de/posts/</link>
+    <description>Recent content in Blog on pitch patch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://pitchpatch.de/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The First-Ever Pitch Patch Video: 4ms Ensemble Oscillator</title>
+      <link>https://pitchpatch.de/posts/polyphonic-eurorack-the-4ms-ensemble-oscillator/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pitchpatch.de/posts/polyphonic-eurorack-the-4ms-ensemble-oscillator/</guid>
+      <description>As covid gifted me with more free time (and reamp labs has been on hold for the past two years) I started a new Youtube channel called pitch patch. I will be posting videos about music-making, tutorials, reviews, and demos.
+In the first-ever pitch patch video, I go through all knobs and functions and show you two patch ideas of the 4ms Ensemble Oscillator.
+The Ensemble Oscillator was designed by Matthias Puech and 4ms Company and is a polyphonic voice of sixteen sine-based oscillators combining additive, FM, phase-distortion, and wave folding synthesis techniques.</description>
+    </item>
+    
+    <item>
+      <title>Fender 52 Telecaster Reissues</title>
+      <link>https://pitchpatch.de/posts/52-telecaster/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pitchpatch.de/posts/52-telecaster/</guid>
+      <description>The Telecaster Story Long before the Fender 52 Telecaster Reissues in 1950 the Telecaster was developed by Leo Fender in Fullerton, California and originally introduced as Broadcaster. It is the world&amp;rsquo;s first solid-body electric guitar that was commercially successful and has been in production ever since. Because of the black pickguard, the early Telecaster had they are sometimes called &amp;lsquo;Black-guard&amp;rsquo; Telecaster.
+Leo carried over features from the Hawaiian steel guitars Fender had already been making since 1945, such as the ashtray bridge cover and Kluson tuners.</description>
+    </item>
+    
+  </channel>
+</rss>

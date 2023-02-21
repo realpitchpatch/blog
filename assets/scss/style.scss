@@ -1,0 +1,79 @@
+:root {
+  --font-family: 'Manrope', system-ui, sans-serif;
+  --font-family-monospace: monospace;
+  --base-color: {{ .Site.Params.baseColor | default "#ffffff" }};
+  --base-offset-color: {{ .Site.Params.baseOffsetColor | default "#eaeaea" }};
+  --highlight-color: {{ .Site.Params.highlightColor | default "#7b16ff" }};
+  --heading-color: {{ .Site.Params.headingColor | default "#1c1b1d" }};
+  --text-color: {{ .Site.Params.textColor | default "#4e5157" }};
+  -webkit-font-smoothing: antialiased;
+}
+
+@font-face {
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: 200;
+  src: local(''),
+       url('../fonts/manrope-v13-latin-200.woff2') format('woff2')
+}
+
+@font-face {
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../fonts/manrope-v13-latin-regular.woff2') format('woff2')
+}
+
+$breakpoints: (
+  'small': 767px,
+  'medium': 992px,
+  'large': 1200px,
+);
+
+@import 'normalize';
+@import 'breakpoints';
+@import 'header';
+@import 'footer';
+@import 'content';
+@import 'intro';
+@import 'summary';
+@import 'author';
+@import 'pagination';
+@import 'main-menu';
+@import 'main-menu-mobile';
+@import 'pygments/github';
+
+html, body {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--base-color);
+  font-family: var(--font-family);
+  color: var(--text-color);
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  font-weight: 200;
+}
+
+body.dark-mode,
+body.dark-mode main * {
+    background: #0f0e12;
+  & .menu-main-mobile {
+    background: #0f0e12;}
+  & p, .footer, .summary-date, .intro, h1, h2, h3, h4, .content, .summary-title a, .footer a, .menu-main-mobile {
+    color: #c3c0bb; }
+  & .menu-main a, .brand a, .hamburger, .hamburger is-active {
+    color: #fff}
+  & .footer .img {
+    fill: #c3c0bb;}
+  }
+  
+.wrapper {
+  max-width: 1000px;
+  padding: 0;
+  margin: 0 auto;
+}

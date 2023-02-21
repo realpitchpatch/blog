@@ -1,0 +1,56 @@
+baseURL = "https://pitchpatch.de/blog"
+languageCode = "en-us"
+theme = "hugo-winston-theme"
+themesDir = "themes"
+title = "pitch patch"
+paginate = 5
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+disqusShortname = 'pitchpatch'
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+[params]
+  showAuthorOnHomepage = false
+  showAuthorOnPosts = false
+  showPostsOnHomepage = true
+  addDot = false
+  addFrame = false
+  highlightColor = "#0071bb"
+  baseColor = "#e5e5e5"
+  baseOffsetColor = "#000"
+  headingColor = "#000"
+  textColor = "#0f0e12"
+  dotColor = "#000"
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[privacy.youtube]
+    privacyEnhanced = true
+
+# markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
+
+#[[menu.main]]
+#     name = "youtube"
+#     weight = 50
+#     url = "https://github.com/google/docsy/"
+#     post = "<span class='alert'>New!</span>"
+
+#[[menu.main]]
+#    name = "instagram"
+#     weight = 60
+#     url = "https://github.com/google/docsy/"
+#     post = "<span class='alert'>New!</span>"

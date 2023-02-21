@@ -1,0 +1,29 @@
+.menu-main {
+  display: none;
+  flex: 0;
+  @include breakpoint('small') {
+    display: block;
+  }
+
+  > ul {
+    display: flex;
+    font-size: 36px;
+    > li {
+      margin-right: 30px;
+      line-height: 1;
+      > a {
+        color: var(--text-color);
+        display: inline-block;
+        text-decoration: none;
+      }
+      &.active {
+        > a {
+          display: inline-block;
+        }
+      }
+      &:last-of-type {
+        margin-right: 0;
+      }
+    }
+  }
+}

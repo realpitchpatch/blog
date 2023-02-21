@@ -1,0 +1,45 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  margin-top: 70px;
+  line-height: 2;
+  font-size: 18px;
+  line-height: 1.5;
+  @include breakpoint('small') {
+    justify-content: space-between;
+    font-size: 22px;
+  }
+}
+
+.copyright {
+  margin: 0 10px 10px 10px;
+  text-align: center;
+  & .terms {
+    margin-right: 10px;
+    &:last-of-type {
+      margin-right: 0px;
+    }
+  }
+}
+
+.logo {
+  width: 100%;
+  margin-top: 40px;
+}
+
+.img {
+  height: 150px;
+  margin: 0 auto;
+  fill: var(--text-color);
+}
+
+.footer a {
+  color: var(--text-color);
+  text-decoration: none;
+}
+
+
+

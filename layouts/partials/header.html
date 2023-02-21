@@ -1,0 +1,39 @@
+<script>
+  const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
+  
+  if (prefersDarkScheme.matches) {
+    document.body.classList.add("dark-mode");
+  } else {
+    document.body.classList.remove("dark-mode");
+  }
+  </script>
+
+<div class='header'>
+  <div class="brand">
+    <ul>
+      <li class="brand">
+        <span><a href="{{ .Site.Home.RelPermalink }}">pitch</a></span>
+        <span><a href="{{ .Site.Home.RelPermalink }}">patch</a></span>
+      </li>
+    </ul>
+  </div>
+  <div class="menu-main">
+    <ul>
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}
+      {{ $active := or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
+      {{ $active = or $active (eq (.URL | relLangURL) ($currentPage.RelPermalink | relLangURL)) }}
+      <li class="menu-item-{{ .Name | lower }} {{ if $active }}active{{ end }}">
+        <a href="{{.URL}}">
+          {{ .Pre }}
+          <span>{{ .Name }}</span>
+        </a>
+      </li>
+      {{end}}
+    </ul>
+  </div>
+
+  <div id="toggle-menu-main-mobile" class="hamburger-trigger">
+    <button class="hamburger">Menu</button>
+  </div>
+</div>

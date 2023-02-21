@@ -1,0 +1,19 @@
+{{ define "body_classes" }}page-blog-single{{ end }}
+
+{{ define "main" }}
+{{ partial "header.html" . }}
+  <div class="blog">
+    <div class="intro">
+
+      <h1>{{ .Title }}</h1>
+      {{ if .Params.image }}
+      <img src="{{ .Params.image | relURL }}" />
+      {{ end }}
+    </div>
+    <div class="content">
+      {{ .Content }}
+      {{ partial "tags.html" . }}
+      {{ template "_internal/disqus.html" . }}
+    </div>
+  </div>
+{{ end }}

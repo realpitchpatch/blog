@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on pitch patch</title>
+    <link>https://pitchpatch.de/pages/</link>
+    <description>Recent content in Pages on pitch patch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://pitchpatch.de/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://pitchpatch.de/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pitchpatch.de/about/</guid>
+      <description>Hi there I am Michael and I make videos about synths and cool stuff
+If you
+want to know all about a certain piece of gear
+dont like reading manuals
+want to get inspired
+or just like listening to music
+this channel (and blog) is for you</description>
+    </item>
+    
+    <item>
+      <title>Terms of Use</title>
+      <link>https://pitchpatch.de/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pitchpatch.de/terms/</guid>
+      <description>Legal notice Service provider pitch patch
+Boschetsrieder Str. 28
+81379 München
+Germany
+Contact E-Mail: hello@pitchpat.ch
+Contact page: https://hello.pitchpat.ch
+Company details Value added tax identification number (VAT ID): USt-ID
+Journalistic-editorial offerings Content responsibility: Michael Schwartze
+Audiovisual media services Country of domicile: Germany
+Responsible regulatory or supervisory authority: Bavarian Regulatory Authority for Commercial Broadcasting (BLM), https://www.blm.de/
+Social media and other online presence This legal notice also applies to the following social media presences and online profiles:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,55 @@
+.intro {
+  margin-bottom: 60px;
+  h1 {
+    font-size: 48px;
+    line-height: 1.1;
+    margin-top: 0;
+    margin-bottom: 30px;
+    @include breakpoint('small') {
+      font-size: 54px;
+      line-height: 1.1;
+      margin-bottom: 50px;
+    }
+    strong {
+      color: var(--highlight-color);
+    }
+  }
+  h2 {
+    font-size: 50px;
+    line-height: 1.5;
+    @include breakpoint('small') {
+      width: 80%;
+    }
+  }
+  p {
+    font-size: 36px !important;
+    line-height: 1.5;
+    @include breakpoint('small') {
+      width: 80%;
+      font-size: 16px;
+      line-height: 1.5;
+    }
+  }
+  .read-more {
+    font-size: 20px;
+    line-height: 1.5;
+    @include breakpoint('small') {
+      font-size: 22px;
+      line-height: 1.5;
+    }
+  }
+  img {
+    max-width: 100%;
+  }
+  // img {
+  //   margin-right: -30px;
+  //   width: 100vw;
+  //   vertical-align: bottom;
+  //   @include breakpoint('small') {
+  //     margin-left: -100px;
+  //     margin-right: -100px;
+  //     margin-bottom: 50px;
+  //     width: auto;
+  //   }
+  // }
+}

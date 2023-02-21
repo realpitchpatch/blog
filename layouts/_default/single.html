@@ -1,0 +1,10 @@
+{{ define "body_classes" }}page-default-single{{ end }}
+
+{{ define "main" }}
+{{ partial "header.html" . }}
+
+
+<div class="content">
+  {{ .Content }}
+</div>
+{{ end }}

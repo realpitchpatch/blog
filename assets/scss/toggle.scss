@@ -1,0 +1,37 @@
+
+    /*
+     * Dark Mode Toggle
+     * Copyright (c) 2015 instructure-react
+     * Forked from Dan Abramov's personal blog
+     * https://github.com/gaearon/overreacted.io/blob/master/src/components/Toggle.css
+     * MIT License
+    **/
+
+    .js-toggle {
+        cursor: pointer;
+        height: 32px;
+        width: 32px;
+        border: 0;
+        padding: 0;
+        -webkit-touch-callout: none;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+      }
+      
+      .js-toggle-track-check {
+        position: absolute;
+        opacity: 0;
+      }
+      
+      .js-toggle--checked .js-toggle-track-check {
+        opacity: 1;
+      }
+      
+      .js-toggle-track-x {
+        position: absolute;
+        opacity: 1;
+      }
+      
+      .js-toggle--checked .js-toggle-track-x {
+        opacity: 0;
+      }

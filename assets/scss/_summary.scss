@@ -1,0 +1,37 @@
+.summary {
+  font-size: 18px;
+  line-height: 24px;
+  margin: 0 10px 0 10px;
+  @include breakpoint('small') {
+    font-size: 22px;
+    line-height: 26px;
+  }
+  .summary-title {
+    margin: 6px 0 12px 0;
+    font-size: 48px;
+    line-height: 1.1;
+    & a {
+      color: var(--text-color);
+      text-decoration: none;
+    }
+    & a:hover{
+      text-decoration: underline;
+      text-decoration-thickness: 2px;
+    }
+    @include breakpoint('small') {
+    font-size: 54px;
+    line-height: 1.1;
+    }
+  }
+  & p {
+    margin: 0;
+    padding: 0;
+    }
+  .summary-date {
+    font-size: 16px;
+    margin-top: 70px;
+    @include breakpoint('small') {
+      font-size: 18px;
+    }
+  }
+}
