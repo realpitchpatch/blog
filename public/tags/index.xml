@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on pitch patch</title>
-    <link>https://pitchpatch.de/tags/</link>
+    <link>https://pitchpatch.de/blog/tags/</link>
     <description>Recent content in Tags on pitch patch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pitchpatch.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pitchpatch.de/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>modelcycles</title>
-      <link>https://pitchpatch.de/tags/modelcycles/</link>
+      <link>https://pitchpatch.de/blog/tags/modelcycles/</link>
       <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://pitchpatch.de/tags/modelcycles/</guid>
+      <guid>https://pitchpatch.de/blog/tags/modelcycles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>polycinematic</title>
-      <link>https://pitchpatch.de/tags/polycinematic/</link>
+      <link>https://pitchpatch.de/blog/tags/polycinematic/</link>
       <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://pitchpatch.de/tags/polycinematic/</guid>
+      <guid>https://pitchpatch.de/blog/tags/polycinematic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>torsot1</title>
-      <link>https://pitchpatch.de/tags/torsot1/</link>
+      <link>https://pitchpatch.de/blog/tags/torsot1/</link>
       <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://pitchpatch.de/tags/torsot1/</guid>
+      <guid>https://pitchpatch.de/blog/tags/torsot1/</guid>
       <description></description>
     </item>
     

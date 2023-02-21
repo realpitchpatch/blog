@@ -2,42 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on pitch patch</title>
-    <link>https://pitchpatch.de/pages/</link>
+    <link>https://pitchpatch.de/blog/pages/</link>
     <description>Recent content in Pages on pitch patch</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://pitchpatch.de/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://pitchpatch.de/blog/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://pitchpatch.de/about/</link>
+      <link>https://pitchpatch.de/blog/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pitchpatch.de/about/</guid>
-      <description>Hi there I am Michael and I make videos about synths and cool stuff
+      <guid>https://pitchpatch.de/blog/about/</guid>
+      <description>Hi There I am Michael and I make videos about synths and cool stuff.
 If you
 want to know all about a certain piece of gear
 dont like reading manuals
 want to get inspired
 or just like listening to music
-this channel (and blog) is for you</description>
+this channel (and blog) is for you! Feel free to check out my blog posts, videos, and pitcures.
+Contact me if you have any questions.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://pitchpatch.de/blog/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pitchpatch.de/blog/contact/</guid>
+      <description>I Would Love to Hear From You If you have any questions or inquiries, you can DM me on Instagram or send an email to website@pitchpat.ch.
+Interested in collaborating? If you have a product and want to promote it, I would love to hear from you!
+Among other things, I make
+product demos and jams that showcase the potential of products in-depth walkthroughs that explain the features unboxing videos and short clips that get people excited!</description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://pitchpatch.de/blog/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pitchpatch.de/blog/privacy/</guid>
+      <description>Privacy </description>
+    </item>
+    
+    <item>
+      <title>Support</title>
+      <link>https://pitchpatch.de/blog/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pitchpatch.de/blog/support/</guid>
+      <description>Big Hug if You Consider Supporting pitch patch!
+This channel (and blog) exists only because of you. You can support pitch patch by subscribing on YouTube, following on Instagram, or buy me a coffee.
+If you head out to buy stuff pls use one of the following affiliate links. I get a small kickback at no extra cost to you. No data about you is collected, stored, used, or shared!</description>
     </item>
     
     <item>
       <title>Terms of Use</title>
-      <link>https://pitchpatch.de/terms/</link>
+      <link>https://pitchpatch.de/blog/terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pitchpatch.de/terms/</guid>
-      <description>Legal notice Service provider pitch patch
+      <guid>https://pitchpatch.de/blog/terms/</guid>
+      <description>Terms of Use Service Provider pitch patch
 Boschetsrieder Str. 28
 81379 München
 Germany
-Contact E-Mail: hello@pitchpat.ch
-Contact page: https://hello.pitchpat.ch
-Company details Value added tax identification number (VAT ID): USt-ID
-Journalistic-editorial offerings Content responsibility: Michael Schwartze
-Audiovisual media services Country of domicile: Germany
-Responsible regulatory or supervisory authority: Bavarian Regulatory Authority for Commercial Broadcasting (BLM), https://www.blm.de/
-Social media and other online presence This legal notice also applies to the following social media presences and online profiles:</description>
+Contact E-Mail: website@pitchpat.ch
+Contact page: hello.pitchpat.ch
+Journalistic-Editorial Offerings Content responsibility: Michael Schwartze
+Audiovisual mMdia Services Country of domicile: Germany
+Responsible regulatory or supervisory authority: Bavarian Regulatory Authority for Commercial Broadcasting (BLM).
+Social Media and Other Online Presence This legal notice also applies to the following social media presences and online profiles:
+Instagram.com/realpitchpatch
+Youtube.com/pitchpatch
+Disclaimer, Liability, and Property Rights Information Responsibility for Contents The contents of our web pages were created with the greatest care.</description>
     </item>
     
   </channel>

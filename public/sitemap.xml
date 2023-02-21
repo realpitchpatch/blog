@@ -2,43 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pitchpatch.de/categories/</loc>
+    <loc>https://pitchpatch.de/blog/categories/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pitchpatch.de/tags/modelcycles/</loc>
+    <loc>https://pitchpatch.de/blog/tags/modelcycles/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pitchpatch.de/</loc>
+    <loc>https://pitchpatch.de/blog/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pitchpatch.de/categories/pitch-patch/</loc>
+    <loc>https://pitchpatch.de/blog/categories/pitch-patch/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pitchpatch.de/tags/polycinematic/</loc>
+    <loc>https://pitchpatch.de/blog/tags/polycinematic/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pitchpatch.de/tags/</loc>
+    <loc>https://pitchpatch.de/blog/posts/poly-cinematic-jam/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pitchpatch.de/posts/polyphonic-eurorack-the-4ms-ensemble-oscillator/</loc>
+    <loc>https://pitchpatch.de/blog/tags/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pitchpatch.de/tags/torsot1/</loc>
+    <loc>https://pitchpatch.de/blog/posts/polyphonic-eurorack-the-4ms-ensemble-oscillator/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pitchpatch.de/posts/</loc>
+    <loc>https://pitchpatch.de/blog/tags/torsot1/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pitchpatch.de/blog/posts/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pitchpatch.de/posts/52-telecaster/</loc>
-    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
+    <loc>https://pitchpatch.de/blog/about/</loc>
   </url><url>
-    <loc>https://pitchpatch.de/categories/guitar/</loc>
-    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
+    <loc>https://pitchpatch.de/blog/contact/</loc>
   </url><url>
-    <loc>https://pitchpatch.de/about/</loc>
+    <loc>https://pitchpatch.de/blog/pages/</loc>
   </url><url>
-    <loc>https://pitchpatch.de/pages/</loc>
+    <loc>https://pitchpatch.de/blog/privacy/</loc>
   </url><url>
-    <loc>https://pitchpatch.de/terms/</loc>
+    <loc>https://pitchpatch.de/blog/support/</loc>
+  </url><url>
+    <loc>https://pitchpatch.de/blog/terms/</loc>
   </url>
 </urlset>

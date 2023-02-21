@@ -2,17 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>torsot1 on pitch patch</title>
-    <link>https://pitchpatch.de/tags/torsot1/</link>
+    <link>https://pitchpatch.de/blog/tags/torsot1/</link>
     <description>Recent content in torsot1 on pitch patch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pitchpatch.de/tags/torsot1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pitchpatch.de/blog/tags/torsot1/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The First-Ever Pitch Patch Video: 4ms Ensemble Oscillator</title>
-      <link>https://pitchpatch.de/posts/polyphonic-eurorack-the-4ms-ensemble-oscillator/</link>
+      <title>PS: Knobula Poly Cinematic &#43; SoundForce uDCO, Torso T-1, and Elektron Model: Cycles Eurorack Jam</title>
+      <link>https://pitchpatch.de/blog/posts/poly-cinematic-jam/</link>
       <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://pitchpatch.de/posts/polyphonic-eurorack-the-4ms-ensemble-oscillator/</guid>
+      <guid>https://pitchpatch.de/blog/posts/poly-cinematic-jam/</guid>
+      <description>Watch two uncut Eurorack modular synth jams with Knobula Poly Cinematic, SoundForce uDCO, Torso T-1, and Elektron Model: Cycles.
+The Poly Cinematic is an 8-voice polysynth Eurorack module designed to produce luscious pads and rhythmic power chords using just a few simple controls.
+Grab the Poly Cinematic at Perfect Circuit https://pitchpat.ch/perfectcircuit-poly
+Modules (FLTR) Knobula Poly Cinematic https://pitchpat.ch/perfectcircuit-poly SoundForce uDCO https://pitchpat.ch/perfectcircuit-udco ALM Busy Circuits Pip Slope Mk2 https://pitchpat.ch/perfectcircuit-pip Intellijel Rainmaker https://pitchpat.ch/reverb-rainmaker Intellijel USB Power 1U https://pitchpat.</description>
+    </item>
+    
+    <item>
+      <title>The First-Ever Pitch Patch Video: 4ms Ensemble Oscillator</title>
+      <link>https://pitchpatch.de/blog/posts/polyphonic-eurorack-the-4ms-ensemble-oscillator/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pitchpatch.de/blog/posts/polyphonic-eurorack-the-4ms-ensemble-oscillator/</guid>
       <description>As covid gifted me with more free time (and reamp labs has been on hold for the past two years) I started a new Youtube channel called pitch patch. I will be posting videos about music-making, tutorials, reviews, and demos.
 In the first-ever pitch patch video, I go through all knobs and functions and show you two patch ideas of the 4ms Ensemble Oscillator.
 The Ensemble Oscillator was designed by Matthias Puech and 4ms Company and is a polyphonic voice of sixteen sine-based oscillators combining additive, FM, phase-distortion, and wave folding synthesis techniques.</description>

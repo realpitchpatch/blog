@@ -2,26 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on pitch patch</title>
-    <link>https://pitchpatch.de/categories/</link>
+    <link>https://pitchpatch.de/blog/categories/</link>
     <description>Recent content in Categories on pitch patch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pitchpatch.de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pitchpatch.de/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>pitch-patch</title>
-      <link>https://pitchpatch.de/categories/pitch-patch/</link>
+      <link>https://pitchpatch.de/blog/categories/pitch-patch/</link>
       <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://pitchpatch.de/categories/pitch-patch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>guitar</title>
-      <link>https://pitchpatch.de/categories/guitar/</link>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://pitchpatch.de/categories/guitar/</guid>
+      <guid>https://pitchpatch.de/blog/categories/pitch-patch/</guid>
       <description></description>
     </item>
     

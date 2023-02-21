@@ -1,6 +1,6 @@
 baseURL = "https://pitchpatch.de/blog"
 languageCode = "en-us"
-theme = "/hugo-winston-theme"
+theme = "hugo-winston-theme"
 themesDir = "themes"
 title = "pitch patch"
 paginate = 5
